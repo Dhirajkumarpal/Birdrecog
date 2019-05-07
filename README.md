@@ -1,9 +1,9 @@
 # **Bird Image Recognition**
 
 Team Members
-    - Prithvi Kunder
-    - Rohit Nadiger
-    - Dhirajkumar Pal
+1. Prithvi Kunder
+2. Rohit Nadiger
+3. Dhirajkumar Pal
     
 We have created a bird image classifier(which will classify whether the given image consists of a bird or not).Our classifier is a  Convolutional Neural Networks(CNN). We have prepared this classifier using Tensorflow and Tflearn deep learning packages.
 
