@@ -17,4 +17,4 @@ We have trained our Neural Network on Google Colaboratory. Project contains two 
 1. Downlaod the .zip file
 2. Upload .zip to [google colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb).
 3. Unzip file using **!unzip <zip_filename>**.
-4. Copy paste code in **test.py** and excecute.
+4. Copy paste code in **test.py** and execute.
