@@ -43,9 +43,9 @@ network = regression(network, optimizer='adam',
                      learning_rate=0.001)
 
 model = tflearn.DNN(network, tensorboard_verbose=0)
-model.load("/content/drive/My Drive/Sem 6/IDC/birdrecog-Google Collab/bird-classifier.tfl")
+model.load("birdrecog-master/bird-classifier.tfl")
 
-for filename in os.listdir('/content/drive/My Drive/Sem 6/IDC/birdrecog-Google Collab/test_images'):
+for filename in os.listdir('birdrecog-master/test_images'):
 	# Load the image file
 	img = scipy.ndimage.imread(filename, mode="RGB")
 
