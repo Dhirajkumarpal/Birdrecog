@@ -1,4 +1,4 @@
-#**Bird Image Recognition**
+# **Bird Image Recognition**
 
 Team Members
     1. Prithvi Kunder
